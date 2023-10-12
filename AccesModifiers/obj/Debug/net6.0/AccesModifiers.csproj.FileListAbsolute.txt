@@ -1,0 +1,14 @@
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\bin\Debug\net6.0\AccesModifiers.exe
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\bin\Debug\net6.0\AccesModifiers.deps.json
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\bin\Debug\net6.0\AccesModifiers.runtimeconfig.json
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\bin\Debug\net6.0\AccesModifiers.dll
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\bin\Debug\net6.0\AccesModifiers.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\AccesModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\AccesModifiers.AssemblyInfoInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\AccesModifiers.AssemblyInfo.cs
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\AccesModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\AccesModifiers.dll
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\refint\AccesModifiers.dll
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\AccesModifiers.pdb
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\AccesModifiers.genruntimeconfig.cache
+C:\Users\Sebuhi\OneDrive\İş masası\AccesModifiers\obj\Debug\net6.0\ref\AccesModifiers.dll
